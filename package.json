@@ -1,0 +1,28 @@
+{
+  "name": "mud-cookbook",
+  "version": "0.1.0",
+  "description": "Community-authored cookbook for MUD development",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanesveller/mud-cookbook.git"
+  },
+  "keywords": [
+    "mud",
+    "programming",
+    "cookbook"
+  ],
+  "author": "MUD Coders Guild, et al.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shanesveller/mud-cookbook/issues"
+  },
+  "homepage": "https://github.com/shanesveller/mud-cookbook#readme"
+}
