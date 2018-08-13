@@ -4,6 +4,8 @@
 * [Contributing](CONTRIBUTING.md)
 * Planning Your Project
   * Choosing a Language
+  * Project Structure
+    * [Elixir](planning-your-project/project-structure/elixir.md)
 * Game Design
 * Game Programming
   * Architecture
