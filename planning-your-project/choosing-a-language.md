@@ -31,6 +31,12 @@ for what those developers feel the language brings to the table:
 > [Go][golang] is an open source programming language that makes it easy to
 > build simple, reliable, and efficient software.[<8;45;37m]
 
+# Java
+
+> [Java][java] is a general-purpose computer-programming language that is
+> concurrent, class-based, object-oriented, and specifically designed to have as
+> few implementation dependencies as possible. - [Wikipedia][java-wiki]
+
 # Python
 
 > [Python][python] is a programming language that lets you work quickly and
@@ -45,5 +51,7 @@ for what those developers feel the language brings to the table:
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/index
 [elixir]: https://elixir-lang.org/
 [golang]: https://golang.org/
+[java]: https://www.oracle.com/java/
+[java-wiki]: https://en.wikipedia.org/wiki/Java_(programming_language
 [python]: https://www.python.org/
 [rust]: https://www.rust-lang.org/
