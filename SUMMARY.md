@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Contributing](CONTRIBUTING.md)
 * Planning Your Project
   * Choosing a Language
 * Game Design
