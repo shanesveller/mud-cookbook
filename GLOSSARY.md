@@ -1,3 +1,7 @@
+## Elixir
+
+[Elixir](https://elixir-lang.org/) is a dynamic, functional language designed for building scalable and maintainable applications.
+
 ## MUD
 
 Multi-user dungeon, or Multi-user Dimension, or several other variations implying a multiplayer experience
