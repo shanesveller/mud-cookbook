@@ -25,6 +25,8 @@
 * MUD Frameworks
   * Elixir
     * ExVenture
+  * LPmud/MudOS
+    * FluffOS
   * Node.js
     * Ranvier
   * Python
