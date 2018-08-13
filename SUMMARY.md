@@ -28,6 +28,23 @@
     * Ranvier
   * Python
     * Evennia
+* Game Deployment
+  * Choosing Your Infrastructure
+    * Shared Hosting
+    * VPS
+    * Infrastructure-as-a-Service
+    * Dedicated Hardware
+  * Infrastructure as Code
+    * Configuration Management
+      * Ansible
+      * Chef
+      * Puppet
+      * SaltStack
+    * Declarative Infrastructure
+      * CloudFormation
+      * Terraform
+  * Docker
+    * Kubernetes
 * MUD History
 * Other Resources
 * References
