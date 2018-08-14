@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Contributing](CONTRIBUTING.md)
 * Planning Your Project
-  * Choosing a Language
+  * [Choosing a Language](planning-your-project/choosing-a-language.md)
 * Game Design
 * Game Programming
   * Architecture
